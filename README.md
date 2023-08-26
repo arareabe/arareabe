@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 📫 How to reach me **abekim143@gmail.com**
+- 📫 How to reach me **abekim.dev@gmail.com**
 
 - ⚡ Fun fact **I've lived in over 37 countries**
 
