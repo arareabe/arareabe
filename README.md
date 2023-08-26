@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Abe Kim</h1>
 <h3 align="center">A full-stack software engineer based out of Los Angeles</h3>
 
-- 🔭 I’m currently working on [my portfolio website](https://arareabe.github.io/)
+- 🔭 I’m currently working on [an Airbnb simulator!](https://skybnb-xyty.onrender.com/)
 
 - 🌱 I’m currently learning **Angular**
 
