@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **abekim.dev@gmail.com**
 
-- ⚡ Fun fact **I've lived in over 37 countries**
+- ⚡ Fun fact **I've lived in over 6 different countries**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
